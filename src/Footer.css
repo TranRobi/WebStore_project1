@@ -1,0 +1,10 @@
+footer {
+  color: white;
+  text-align: center;
+  padding: 1.5rem;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-around;
+}
